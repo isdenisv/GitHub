@@ -25,8 +25,4 @@ public class Helper {
         System.out.println();
     }
 
-    public static void helllo() {
-        System.out.println();
-    }
-
 }

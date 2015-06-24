@@ -7,11 +7,10 @@ import view.ConsoleView;
 
 public class GameController {
 
-    public void startGame() {
+    public void startGame() { // TODO
         GameBoard gameBoard = new GameBoard();
         ConsoleView consoleView = new ConsoleView();
         getMove(gameBoard);
-        consoleView.showBoard(gameBoard);
     }
 
     public void getMove(GameBoard gameBoard) {  //TODO
