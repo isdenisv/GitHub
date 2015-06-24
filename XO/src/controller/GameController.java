@@ -10,12 +10,11 @@ public class GameController {
     public void startGame() {
         GameBoard gameBoard = new GameBoard();
         ConsoleView consoleView = new ConsoleView();
-        checkWinner(gameBoard);
         getMove(gameBoard);
         consoleView.showBoard(gameBoard);
     }
-    //TODO
-    public void getMove(GameBoard gameBoard) {
+
+    public void getMove(GameBoard gameBoard) {  //TODO
         ConsoleView.sayGetMove();
         int x = ConsoleView.getCoordinateX();
         int y = ConsoleView.getCoordinateY();
@@ -139,8 +138,8 @@ public class GameController {
         }
     }
 
-    private boolean checkSumbol(char sumbol) {
-        if ((sumbol == Players.figureOfFirstPlayer) || (sumbol == Players.figureOfSecondPlayer)) {
+    private boolean checkSumbol(char sumboll) {
+        if ((sumboll == Players.figureOfFirstPlayer) || (sumboll == Players.figureOfSecondPlayer)) {
             return true;
         }
         return false;
