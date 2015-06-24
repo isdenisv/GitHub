@@ -4,6 +4,7 @@
     <list default="true" id="3c33085d-58e0-48e2-9039-7741f1ad5602" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/controller/GameController.java" afterPath="$PROJECT_DIR$/src/controller/GameController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/helpers/Helper.java" afterPath="$PROJECT_DIR$/src/helpers/Helper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="XO.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -556,7 +557,7 @@
       <workItem from="1435070168859" duration="6325000" />
       <workItem from="1435142589826" duration="351000" />
       <workItem from="1435144881959" duration="95000" />
-      <workItem from="1435146172487" duration="326000" />
+      <workItem from="1435146172487" duration="367000" />
     </task>
     <task id="LOCAL-00001" summary="fghj">
       <created>1435071359707</created>
@@ -586,7 +587,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33838000" />
+    <option name="totallyTimeSpent" value="33879000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -598,7 +599,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
