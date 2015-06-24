@@ -53,7 +53,7 @@ public class GameController {
     }
 
     private boolean checkDiagonals(GameBoard gameBoard) {
-       if (checkLine(gameBoard, 0, 0) || checkLine(gameBoard, 1, -3)) {
+       if (checkLine(gameBoard, 0, 0) || checkLine(gameBoard, 1, -3)) { //TODO
            return true;
        }
         return false;

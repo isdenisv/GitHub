@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3c33085d-58e0-48e2-9039-7741f1ad5602" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/controller/GameController.java" afterPath="$PROJECT_DIR$/src/controller/GameController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/helpers/Helper.java" afterPath="$PROJECT_DIR$/src/helpers/Helper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="XO.iws" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="GameController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/controller/GameController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35300547">
-              <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+            <state vertical-scroll-proportion="0.40874317">
+              <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,8 +120,8 @@
         <option value="$PROJECT_DIR$/src/view/ConsoleView.java" />
         <option value="$PROJECT_DIR$/src/model/Players.java" />
         <option value="$PROJECT_DIR$/src/model/GameBoard.java" />
-        <option value="$PROJECT_DIR$/src/controller/GameController.java" />
         <option value="$PROJECT_DIR$/src/helpers/Helper.java" />
+        <option value="$PROJECT_DIR$/src/controller/GameController.java" />
       </list>
     </option>
   </component>
@@ -557,7 +556,7 @@
       <workItem from="1435070168859" duration="6325000" />
       <workItem from="1435142589826" duration="351000" />
       <workItem from="1435144881959" duration="95000" />
-      <workItem from="1435146172487" duration="367000" />
+      <workItem from="1435146172487" duration="1153000" />
     </task>
     <task id="LOCAL-00001" summary="fghj">
       <created>1435071359707</created>
@@ -587,7 +586,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33879000" />
+    <option name="totallyTimeSpent" value="34665000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -599,7 +598,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1047,8 +1046,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/controller/GameController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35300547">
-          <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+        <state vertical-scroll-proportion="0.40874317">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
